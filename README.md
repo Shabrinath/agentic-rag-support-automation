@@ -1,4 +1,4 @@
-# 🎯 Intelligent Ticket Response System: Agentic RAG Architecture
+# 🎯 AI-powered Ticket Response System: Agentic RAG Architecture
 
 > **An advanced AI-powered ticket routing and response system leveraging Agentic Retrieval-Augmented Generation (RAG) for intelligent, context-aware support automation**
 
